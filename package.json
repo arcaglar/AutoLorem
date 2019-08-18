@@ -1,0 +1,19 @@
+{
+  "name": "auto-lorem",
+  "version": "1.0.0",
+  "description": "\"Dummy text and image creator on JavaScript.\"",
+  "main": "lorem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcaglar/auto-lorem.git"
+  },
+  "author": "Ahmet Rıdvan Çağlar <arcaglar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcaglar/auto-lorem/issues"
+  },
+  "homepage": "https://github.com/arcaglar/auto-lorem#readme"
+}
